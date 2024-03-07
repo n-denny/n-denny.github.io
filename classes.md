@@ -83,4 +83,63 @@ Statistics for engineering problem solving. Principles of engineering data colle
 ### AER E 411: AEROSPACE VEHICLE PROPULSION
 Atmospheric propulsion system performance and cycle analysis. Momentum theorem, thrust and propulsive efficiency. Thermodynamics of compressible flow with heat and work addition. Components and principles of turbojet, ramjet, and turbofan aircraft engines. Introduction to rocket engines.   
 
+# Math
+### MATH 165: CALCULUS I
+Differential calculus, applications of the derivative, introduction to integral calculus. 
+
+### MATH 166: CALCULUS II
+Integral calculus, applications of the integral, parametric curves and polar coordinates, power series and Taylor series. 
+
+### MATH 265: CALCULUS III
+Geometry of space and vectors, multivariable differential calculus, multivariable integral calculus, vector calculus. 
+
+### MATH 267: ELEMENTARY DIFFERENTIAL EQUATIONS AND LAPLACE TRANSFORMS
+Solution methods for ordinary differential equations. First order equations, linear equations, constant coefficient equations. Eigenvalue methods for systems of first order linear equations. Introduction to stability and phase plane analysis. Laplace transforms and power series solutions to ordinary differential equations. 
+
+# Sciences
+### CHEM 167: GENERAL CHEMISTRY FOR ENGINEERING STUDENTS
+Principles of chemistry and properties of matter explained in terms of modern chemical theory with emphasis on topics of general interest to the engineer.
+
+### PHYS 231: INTRODUCTION TO CLASSICAL PHYSICS I
+Elementary mechanics including kinematics and dynamics of particles, work and energy, linear and angular momentum, conservation laws, rotational motion, oscillations, gravitation. Heat, thermodynamics, kinetic theory of gases; waves and sound. 
+
+### PHYS 231L: INTRODUCTION TO CLASSICAL PHYSICS I LABORATORY
+Laboratory experiments in elementary kinematics, work and energy, conservation laws, and rotational motion. 
+
+### PHYS 232: INTRODUCTION TO CLASSICAL PHYSICS II
+Fluid dynamics. Electric forces and fields. Electrical currents; DC circuits. Magnetic forces and fields; LR, LC, LCR circuits; Maxwell's equations; wave optics. 
+
+### PHYS 232L: INTRODUCTION TO CLASSICAL PHYSICS II LABORATORY
+Laboratory experiments in fluid dynamics, electric forces and fields, electrical currents, DC circuits, magnetic forces and fields, and wave optics. 
+
+# English
+### ENGL 250H: WRITTEN, ORAL, VISUAL, AND ELECTRONIC COMPOSITION: HONORS
+In-depth analysis, composition, and reflection on written, oral, visual, and electronic (WOVE) discourse within academic, civic, and cultural contexts. Emphasis on argumentation: developing claims, generating reasons, providing evidence. Individual sections organized by special topics. Development of communication portfolio. 
+
+### ENGL 314: TECHNICAL COMMUNICATION
+Rhetorical concepts and processes to successfully communicate technical information individually and collaboratively via written, oral, visual, and electronic modes. Emphasizes the major strategies for analyzing expert and lay audiences and adapting information to those audiences. Covers developing and designing usable technical documentation, visualizing data, and presenting technical information orally. 
+
+# Spanish
+### SPAN 303B: SPANISH CONVERSATION AND COMPOSITION: FOR PROFESSIONALS
+Intensive oral practice and improvement of oral proficiency. Application of specific grammatical concepts for development of conversational and writing skills within the context of Hispanic culture. Taught in Spanish. 
+
+### SPAN 304: SPANISH FOR GLOBAL PROFESSIONALS
+Introduction to professional communication within a cultural context. Grammar review as needed. Individual projects will focus on special interests. Taught in Spanish. 
+
+### SPAN 324: LATIN AMERICA TODAY
+A survey of social, political, economic, and cultural topics relevant to contemporary Latin America. Taught in Spanish. 
+
+### SPAN 321: SPANISH CIVILIZATION
+A survey of the social, political, religious, and cultural history of Spain. Taught in Spanish. 
+
+# Miscellaneous
+### LIB 160: INTRODUCTION TO COLLEGE LEVEL RESEARCH
+Provides a foundation for college level research. Students will develop the critical thinking skills necessary to successfully navigate the research process: developing a research question, searching strategically, evaluating sources, and using information ethically. 
+
+### ARCH 321: HISTORY OF THE AMERICAN CITY
+Study of the development of the built environment and urban condition in the United States from the colonial period to today. Primary attention is given to urban spatial organization, built form, technological change, regulatory and funding patterns, and social categories such as class, race, and gender. 
+
+### RELIG 205: WORLD RELIGIONS
+An introduction to religious studies – the academic study of religion. Religions from around the world will be discussed, including their myths, rituals, beliefs, values, and social forms. 
+
 
