@@ -1,4 +1,4 @@
-# [Projects](/projects/) | [Contact Me](\contact\)
+# [Projects](/projects/) | [Contact Me](/contact/)
 # Engineering Portfolio
 
 ## Education
