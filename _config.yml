@@ -6,3 +6,4 @@ theme: jekyll-theme-minimal
 header_pages:
   - Home: /
   - Projects: /projects/
+  - Contact Me: /contact/
