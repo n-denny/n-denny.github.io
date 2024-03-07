@@ -1,4 +1,5 @@
 # Engineering Portfolio
+# [Projects](/projects/)
 
 ## Education
 - B.S. Aerospace Engineering, Iowa State University (_Exp. May 2024_)
