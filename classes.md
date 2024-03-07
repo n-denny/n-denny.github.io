@@ -4,7 +4,7 @@ title: Classes
 permalink: /classes/
 ---
 # [Home](/) | [Projects](/projects/) | [Classes](/classes/) | [Contact](/contact/)
-# Engineering
+# <ins>Engineering</ins>
 ### ENGR 101: ENGINEERING ORIENTATION
 Introduction to the College of Engineering and the engineering profession. Information concerning university and college policies, procedures, and resources. Undeclared sections: Considerations in choosing an engineering curriculum. Opportunities to interact with departments. Declared sections: Introduction to major-specific topics.
 
@@ -83,7 +83,17 @@ Statistics for engineering problem solving. Principles of engineering data colle
 ### AER E 411: AEROSPACE VEHICLE PROPULSION
 Atmospheric propulsion system performance and cycle analysis. Momentum theorem, thrust and propulsive efficiency. Thermodynamics of compressible flow with heat and work addition. Components and principles of turbojet, ramjet, and turbofan aircraft engines. Introduction to rocket engines.   
 
-# Math
+### I E 305: ENGINEERING ECONOMIC ANALYSIS
+Economic analysis of engineering decisions under uncertainty. Financial engineering basics including time value of money, cash flow estimation, and asset evaluation. Make versus buy decisions. Comparison of project alternatives accounting for taxation, depreciation, inflation, and risk. 
+
+### AER E 462: DESIGN OF AEROSPACE SYSTEMS
+Fundamental principles used in engineering design of aircraft, rockets, and space systems. Preliminary design of aerospace vehicles. Engineering Ethics. 
+
+### AER E 463: INTRODUCTION TO MULTIDISCIPLINARY DESIGN OPTIMIZATION
+Introduction to the theory and methods of Multidisciplinary Design Optimization (MDO), including system coupling, system sensitivity methods, decomposition methods, MDO formulations (such as multi-discipline feasible (MDF), individual discipline feasible (IDF) and all-at-once (AAO) approaches, and MDO search methods. 
+
+
+# <ins>Math</ins>
 ### MATH 165: CALCULUS I
 Differential calculus, applications of the derivative, introduction to integral calculus. 
 
@@ -96,7 +106,7 @@ Geometry of space and vectors, multivariable differential calculus, multivariabl
 ### MATH 267: ELEMENTARY DIFFERENTIAL EQUATIONS AND LAPLACE TRANSFORMS
 Solution methods for ordinary differential equations. First order equations, linear equations, constant coefficient equations. Eigenvalue methods for systems of first order linear equations. Introduction to stability and phase plane analysis. Laplace transforms and power series solutions to ordinary differential equations. 
 
-# Sciences
+# <ins>Sciences</ins>
 ### CHEM 167: GENERAL CHEMISTRY FOR ENGINEERING STUDENTS
 Principles of chemistry and properties of matter explained in terms of modern chemical theory with emphasis on topics of general interest to the engineer.
 
@@ -112,14 +122,14 @@ Fluid dynamics. Electric forces and fields. Electrical currents; DC circuits. Ma
 ### PHYS 232L: INTRODUCTION TO CLASSICAL PHYSICS II LABORATORY
 Laboratory experiments in fluid dynamics, electric forces and fields, electrical currents, DC circuits, magnetic forces and fields, and wave optics. 
 
-# English
+# <ins>English</ins>
 ### ENGL 250H: WRITTEN, ORAL, VISUAL, AND ELECTRONIC COMPOSITION: HONORS
 In-depth analysis, composition, and reflection on written, oral, visual, and electronic (WOVE) discourse within academic, civic, and cultural contexts. Emphasis on argumentation: developing claims, generating reasons, providing evidence. Individual sections organized by special topics. Development of communication portfolio. 
 
 ### ENGL 314: TECHNICAL COMMUNICATION
 Rhetorical concepts and processes to successfully communicate technical information individually and collaboratively via written, oral, visual, and electronic modes. Emphasizes the major strategies for analyzing expert and lay audiences and adapting information to those audiences. Covers developing and designing usable technical documentation, visualizing data, and presenting technical information orally. 
 
-# Spanish
+# <ins>Spanish</ins>
 ### SPAN 303B: SPANISH CONVERSATION AND COMPOSITION: FOR PROFESSIONALS
 Intensive oral practice and improvement of oral proficiency. Application of specific grammatical concepts for development of conversational and writing skills within the context of Hispanic culture. Taught in Spanish. 
 
@@ -132,7 +142,10 @@ A survey of social, political, economic, and cultural topics relevant to contemp
 ### SPAN 321: SPANISH CIVILIZATION
 A survey of the social, political, religious, and cultural history of Spain. Taught in Spanish. 
 
-# Miscellaneous
+### SPAN 351: INTRODUCTION TO SPANISH-ENGLISH TRANSLATION
+Introduction to the theory, methods, techniques, and problems of translation. Consideration of material from business, literature, and the social sciences. Taught in Spanish. 
+
+# <ins>Miscellaneous</ins>
 ### LIB 160: INTRODUCTION TO COLLEGE LEVEL RESEARCH
 Provides a foundation for college level research. Students will develop the critical thinking skills necessary to successfully navigate the research process: developing a research question, searching strategically, evaluating sources, and using information ethically. 
 
