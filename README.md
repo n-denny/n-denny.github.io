@@ -35,3 +35,6 @@ Python, Matlab, C, Latex, Autodesk AutoCAD, Autodesk Inventor, SOLIDWORKS, OpenV
 ### Languages
 - English (_native_)
 - Spanish (_eight years experience, Illinois State Seal of Biliteracy 2020_)
+
+# Projects
+## <ins>Onyx Firefighting Aircraft</ins>
