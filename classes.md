@@ -78,7 +78,7 @@ Linear system analysis. Control system designs using root-locus and frequency re
 Detailed design and analysis of aerospace vehicle structures. Material selection, strength, durability and damage tolerance, and validation analysis. Design for manufacturability. 
 
 ### STAT 305: ENGINEERING STATISTICS
-Statistics for engineering problem solving. Principles of engineering data collection; descriptive statistics; elementary probability distributions; principles of experimentation; confidence intervals and significance tests; one-, two-, and multi-sample studies; regression analysis; use of statistical software. Credit for both STAT 105 and STAT 305 may not be applied toward graduation.  
+Statistics for engineering problem solving. Principles of engineering data collection; descriptive statistics; elementary probability distributions; principles of experimentation; confidence intervals and significance tests; one-, two-, and multi-sample studies; regression analysis; use of statistical software.
 
 ### AER E 411: AEROSPACE VEHICLE PROPULSION
 Atmospheric propulsion system performance and cycle analysis. Momentum theorem, thrust and propulsive efficiency. Thermodynamics of compressible flow with heat and work addition. Components and principles of turbojet, ramjet, and turbofan aircraft engines. Introduction to rocket engines.   
