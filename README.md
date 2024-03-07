@@ -13,14 +13,14 @@
 - Led the combination of process instruction documents to encompass 3 different business units, resulting in consistency in instruction enterprise-wide
 - Supported the Enterprise Certification Processes team, collaborating with 19 members, by collating information on status requests and organizing meeting information into shareable documents
 
-### Iowa State University Center for Nondestructive Evaluation
+### <ins>Iowa State University Center for Nondestructive Evaluation</ins>
 **Undergraduate Researcher in Vibrothermography**
 (_Feb 2022 - Dec 2022_)
 - Assisted in the excitation of aircraft fuselage components in a vibrothermography laboratory
 - Performed maintenance on a hydraulic power supply and fatigue machine system used to initiate cracks in superalloys
 - Organized the research team to begin determining the crack closure state of a natural crack formed in a jet engine disk
 
-### Skach Manufacturing Co
+### <ins>Skach Manufacturing Co</ins>
 **Technical Print Drafter**
 (_Jul 2020 - May 2023_)
 - Interpreted over 190 outdated blueprints of mechanical parts to draft updated versions using AutoCAD
