@@ -1,4 +1,4 @@
-# [Projects](/projects/) | [Contact Me](/contact/)
+# [Home](/) | [Projects](/projects/) | [Classes](/classes/) | [Contact Me](/contact/)
 # Engineering Portfolio
 
 ## Education
