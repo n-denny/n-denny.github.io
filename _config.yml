@@ -3,3 +3,6 @@ logo: /assets/headshot.png
 description: <p style="color: #000000">ndenny@iastate.edu - 847.505.6045</p>
 #show_downloads: false
 theme: jekyll-theme-minimal
+header_pages:
+  - Home: /
+  - Projects: /projects/
