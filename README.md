@@ -6,7 +6,7 @@
 - GPA 3.74
 
 ## Experience
-### The Boeing Company
+### <ins>The Boeing Company</ins>
 **Data Science Engineering Intern, Regulatory Administration & Airworthiness**
 (_May 2023 - Aug 2023_)
 - Gathered and analyzed role-specific data from over 40 Boeing documents and assets to contribute to the development of an interactive document organization web tool
