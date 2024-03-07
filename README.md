@@ -1,2 +1,1 @@
-# Nathan Denny
-## Engineering Portfolio
+# Engineering Portfolio
