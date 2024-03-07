@@ -7,6 +7,6 @@ permalink: /projects/
 # Projects
 ## Onyx Aircraft Design
 
-[OnyxIso](/assets/OnyxIso.png)
-[OnyxElectrical](/assets/OnyxElectrical.png)
+![OnyxIso](/assets/OnyxIso.png)
+![OnyxElectrical](/assets/OnyxElectrical.png)
 
