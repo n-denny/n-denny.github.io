@@ -28,3 +28,10 @@
 - Provided detailed product information to clients regarding REACH, RoHS, and other regulations
 - Completed and submitted the Toxic Release Inventory to the EPA for the years of 2020, 2021, & 2022
 - Conducted process capability and gauge repeatability and reproducibility analyses and reports
+
+## Skills
+### Programs
+Python, Matlab, C, Latex, Autodesk AutoCAD, Autodesk Inventor, SOLIDWORKS, OpenVSP, XFLR5, ANSYS Mechanical, ANSYS STK, Microsoft 365, Google Workspace
+### Languages
+- English (_native_)
+- Spanish (_eight years experience, Illinois State Seal of Biliteracy 2020_)
