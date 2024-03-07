@@ -3,6 +3,6 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-# [Home](/) | [Projects](/projects/) | [Classes](/classes/) | [Contact Me](/contact/)
+# [Home](/) | [Projects](/projects/) | [Classes](/classes/) | [Contact](/contact/)
 # Projects
 
