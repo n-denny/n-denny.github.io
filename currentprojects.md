@@ -13,5 +13,8 @@ My contributions have been:
 - Modeled the plane, internal manufacturing methods, and design iterations in SOLIDWORKS
 - Heavy design input and manufacturing help
 
+[WindTunnel](/assets/WindTunnel.jpg)
+Wind Tunnel Model
+
 ## Aero-Thermal-Structural Multi-disciplinary Design Optimization
 My team of 3 aerospace engineering students are creating an aero-thermal-structural optimization of a rocket fin. We are using Python and the OpenMDAO framework to achieve this goal.
