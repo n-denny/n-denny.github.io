@@ -52,7 +52,7 @@ My main contributions to the project included:
 - XFLR5 Data Analysis
   ![CropdusterTop](/assets/CropdusterTop.webp)
 
-  ## <ins>"Lighter Than Air" Drone</ins>
+## <ins>"Lighter Than Air" Drone</ins>
 In Fall 2020, my team designed a balloon-assisted drone that with the objective of completing an obstacle course. This project involved controls knowledge, electronic wiring, 3D Modeling, and planning.
 
 My contributions to the project included:
