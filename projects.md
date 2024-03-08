@@ -45,11 +45,21 @@ In the fall of 2021 I participated in a group project requiring the design of a 
 This project consisted of heavy use of Matlab, as we developed a program that could analyze the flight performance of our aircraft.
 
 My main contributions to the project included:
-
 - Design Input
 - Matlab Programming and Debugging
 - Knowledge of Aircraft Performance Equations
 - OpenVSP Solid Modeling
 - XFLR5 Data Analysis
-
   ![CropdusterTop](/assets/CropdusterTop.webp)
+
+  ## <ins>"Lighter Than Air" Drone</ins>
+In Fall 2020, my team designed a balloon-assisted drone that with the objective of completing an obstacle course. This project involved controls knowledge, electronic wiring, 3D Modeling, and planning.
+
+My contributions to the project included:
+- Design Input
+- Autodesk Inventor 3D Modeling
+- Control Design
+- AutoCAD Electronic and Wood Usage Schematics
+
+![LTAIso](/assets/LTAIso.webp)
+![LTATop](/assets/LTATop.webp)
