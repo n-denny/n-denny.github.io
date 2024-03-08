@@ -3,7 +3,7 @@ layout: default
 title: Onyx
 permalink: /onyx/
 ---
-# [Back](/projects/)
+# [Back](https://n-denny.github.io/projects/)
 # Onyx Firefighting Aircraft Images
 ![OnyxFront](/assets/OnyxFront.webp)
 ![OnyxUnder](/assets/OnyxUnder.webp)
@@ -13,3 +13,4 @@ permalink: /onyx/
 ![OnyxElectrical.webp](/assets/OnyxElectrical.webp)
 ![OnyxAlphaCl](/assets/OnyxAlphaCl.webp)
 ![OnyxClCd](/assets/OnyxClCd.webp)
+# [Back](https://n-denny.github.io/projects/)
