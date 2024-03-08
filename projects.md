@@ -21,4 +21,4 @@ Design Input
 
 <img src="/assets/OnyxIso.webp" alt="OnyxIso" style="border-radius: 10px;">
 
-**[Find more pictures here](/pictures/onyx)
+**[Find more pictures here](/pictures/onyx)**
