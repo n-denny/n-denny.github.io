@@ -31,8 +31,25 @@ I recently finished working on a project involving the design of three interplan
 
 This project required:
 
-- Use of Matlab to make plots of orbital trajectories in 2D and 3D (as seen to the right)
+- Use of Matlab to make plots of orbital trajectories in 2D and 3D
 - Solving astrodynamics equations for orbital elements
 - Solving Lambert's Problem numerically
 - Using an ephemeris to gather data on planets' positions and velocities
 ![IMIso](/assets/IMIso.webp)
+
+**[Find the final project report here](https://drive.google.com/file/d/1VkXV3IWiYIIQQ4HHaULdKWCDajRY8BTB/view?usp=sharing)**
+
+## <ins>Cropduster Design</ins>
+In the fall of 2021 I participated in a group project requiring the design of a cropdusting aircraft. My group put together a comprehensive design of an aircraft that on paper could dust remote fields in a more efficient time than similar cropdusters in use today, thus becoming financially desirable.
+
+This project consisted of heavy use of Matlab, as we developed a program that could analyze the flight performance of our aircraft.
+
+My main contributions to the project included:
+
+- Design Input
+- Matlab Programming and Debugging
+- Knowledge of Aircraft Performance Equations
+- OpenVSP Solid Modeling
+- XFLR5 Data Analysis
+
+  ![CropdusterTop](/assets/CropdusterTop.webp)
