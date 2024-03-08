@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Onyx
-permalink: /projects/onyx/
+permalink: /onyx/
 ---
 # [Back](/projects/)
 # Onyx Firefighting Aircraft Images
