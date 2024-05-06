@@ -22,7 +22,7 @@ My contributions have been:
 Modeled the plane, internal manufacturing methods, and design iterations in SOLIDWORKS
 Heavy design input and manufacturing help
 
-![1](/assets/1.jpg)
+![12](/assets/12.jpg)
 ![2](/assets/2.jpg)
 ![3](/assets/3.JPEG)
 
