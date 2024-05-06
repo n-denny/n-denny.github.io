@@ -33,6 +33,10 @@ My contributions to this project included:
 - Python programming
 - SU2 integration into OpenMDAO
 
+![Baseline](/assets/Baseline.png)
+![Optimized](/assets/Optimized.png)
+![XDSM](/assets/XDSM.png)
+
 ## <ins>Onyx Aircraft Design</ins>
 I participated in the AIAA Undergraduate Design Competition from August 2021 through May 2022 with my team, Onyx. The focus of this competition was to design an aerial firefighting response aircraft more effective than the ones being used today. We successfully submitted an 87 page report detailing the schematics and performance of our aircraft.
 
