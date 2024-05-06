@@ -7,12 +7,24 @@ permalink: /projects/
 # Projects | [Current Projects](/currentprojects/)
 
 ## <ins>Senior Design</ins>
-My team of 8 aerospace engineering students designed and manufactured a lightweight aircraft to specific requirements. It was designed to maximize endurance through the use of in-flight solar panel charging. A full semester was spent on design, and the second semester was used for manufacturing and flight testing. 
+My team of 8 aerospace engineering students designed and manufactured a lightweight aircraft to specific requirements. It was designed to maximize endurance through the use of in-flight solar panel charging. One semester was spent on design and the second semester was used for manufacturing and flight testing. The plane was able to take off of a 10 foot ramp at an include of 5 degrees as well as successfully utilize an autopilot component. The completed plane was comprised of:
+- Lite-ply internal cage 
+- Blue foam outer fuselage
+- Lite-ply rib and carbon fiber spar mid-wing
+- Blue foam outboard wings with carbon fiber spars
+- Blue foam V-Tail with carbon fiber spars
+- Carbon fiber boom
+- Carbon fiber layup winglets filled with composite insulation
+
 
 My contributions have been:
 
 Modeled the plane, internal manufacturing methods, and design iterations in SOLIDWORKS
 Heavy design input and manufacturing help
+
+![1](/assets/1.jpg)
+![2](/assets/2.jpg)
+![3](/assets/3.JPEG)
 
 ## <ins>Onyx Aircraft Design</ins>
 I participated in the AIAA Undergraduate Design Competition from August 2021 through May 2022 with my team, Onyx. The focus of this competition was to design an aerial firefighting response aircraft more effective than the ones being used today. We successfully submitted an 87 page report detailing the schematics and performance of our aircraft.
