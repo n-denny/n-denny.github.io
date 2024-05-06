@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 # [Home](/) | [Projects](/projects/) | [Classes](/classes/) | [Contact](/contact/)
-# Projects | [Current Projects](/currentprojects/)
+# Projects 
 
 ## <ins>Senior Design</ins>
 My team of 8 aerospace engineering students designed and manufactured a lightweight aircraft to specific requirements. It was designed to maximize endurance through the use of in-flight solar panel charging. One semester was spent on design and the second semester was used for manufacturing and flight testing. The plane was able to take off of a 10 foot ramp at an include of 5 degrees as well as successfully utilize an autopilot component. The completed plane was comprised of:
