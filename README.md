@@ -4,7 +4,7 @@
 ## Education
 - B.S. Aerospace Engineering, Iowa State University
 - Minor in Spanish
-- GPA 3.74
+- GPA 3.71
 
 ## Experience
 ### <ins>The Boeing Company</ins>
